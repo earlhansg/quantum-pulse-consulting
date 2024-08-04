@@ -1,0 +1,1 @@
+export const menus = ["Quantum Pulse Consulting", "About Us", "Experiences", "Case Studies", "Contact Us"]
