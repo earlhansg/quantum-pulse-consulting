@@ -7,5 +7,5 @@ Install & Start
 ```bash
   npm install
   npm run dev
-  visit the link "http://localhost:5173"
+  visit the link "http://localhost:5174"
 ```
